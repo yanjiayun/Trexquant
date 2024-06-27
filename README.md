@@ -1,3 +1,4 @@
+# Clone and npm run dev
 # To-Do List Application
 
 ## User Persona
