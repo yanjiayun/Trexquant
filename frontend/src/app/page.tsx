@@ -76,8 +76,8 @@ const Home: React.FC = () => {
   };
 
   return (
-    <div className="mx-auto mb-52">
-      <h1 className="text-3xl font-bold text-trxqblue-500 block lg:hidden text-center">Jiayun&apos;s To-dos</h1>
+    <div className="mx-auto mb-52 mt-2">
+      <h1 className="text-3xl font-bold text-trxqblue-500 block lg:hidden text-center">Mei&apos;s To-dos</h1>
       <div className="my-4 grid grid-cols-3 gap-x-8 h-fit w-full lg:w-2/3 lg:mx-auto">
         <input
           type="text"

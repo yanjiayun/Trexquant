@@ -12,7 +12,7 @@ const Header = () => {
         <section className="hidden lg:block">
           <div className='flex'>
             <NameAndLogo />
-            <h1 className='text-4xl font-bold mt-1 ms-auto text-white'>Jiayun&apos;s To-dos</h1>
+            <h1 className='text-4xl font-bold mt-1 ms-auto text-white'>Mei&apos;s To-dos</h1>
           </div>
         </section>
 
