@@ -6,7 +6,7 @@ import { LargeLogo } from './icons/LargeLogo';
 
 const Header = () => {
   return (
-    <nav className="bg-black text-white px-12 h-[120px] lg:h-[98px] grid">
+    <nav className="pt-4 bg-black text-white px-12 h-[120px] lg:h-[98px] grid">
       <div className='max-w-screen-2xl my-auto'>
 
         <section className="hidden lg:block">
